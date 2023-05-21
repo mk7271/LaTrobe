@@ -39,7 +39,7 @@ public class Subjects2 extends AppCompatActivity {
         }
 
         if(a.equals("4")){
-            t1.setText("Professional Practices And Entreepreneurship");
+            t1.setText("Professional Practices And Entrepreneurship");
             t2.setText("In the subject of Professional Practices and Entrepreneurship, you will learn essential skills and knowledge to thrive in the professional world and explore entrepreneurship. You will gain an understanding of professional ethics, workplace etiquette, and effective communication skills. You'll learn about project management methodologies, teamwork, and collaboration, enhancing your ability to work effectively in a professional setting. Additionally, you will gain insights into entrepreneurship, including business planning, market research, financial management, and marketing strategies. This subject equips you with the practical skills and mindset required to succeed in the professional arena and provides a foundation for exploring entrepreneurial opportunities and creating your own ventures.");
         }
     }

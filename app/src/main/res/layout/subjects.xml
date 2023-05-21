@@ -60,7 +60,7 @@
             android:layout_height="70dp"
             android:layout_marginTop="10dp"
             android:backgroundTint="#ED2F22"
-            android:text="Professional Practices And Entreepreneurship"
+            android:text="Professional Practices And Entrepreneurship"
             android:textSize="20sp" />
 
     </LinearLayout>
