@@ -107,6 +107,18 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".User"
+            android:theme="@style/Theme.Material3.Light.NoActionBar"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="com.example.User"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
