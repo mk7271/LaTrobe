@@ -95,6 +95,18 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".Events"
+            android:theme="@style/Theme.Material3.Light.NoActionBar"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="com.example.Events"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
