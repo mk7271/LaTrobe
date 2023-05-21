@@ -45,6 +45,18 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".Home2"
+            android:theme="@style/Theme.Material3.Light.NoActionBar"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="com.example.Home2"/>
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
